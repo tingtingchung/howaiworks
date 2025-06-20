@@ -1,6 +1,6 @@
 Welcome to the How AI Works workshop by Dr. Rachel Chung!
 
-Agenda for the 6/20/2025 workshop
+6/20/2025 workshop
 
 [How Deep Learning (DL) Works](https://www.dropbox.com/scl/fi/xg6mbc2yt2a18timvdrx4/EHUB-AI-by-Chung-2025-How-AI-Works.pptx?rlkey=m8aou9f741qi4q4b8fu2m0kbg&dl=0)  
 [Worksheet #01: Single Neuron Simulator](https://docs.google.com/document/d/1VUxvhrI8i_2mxxIqB9e4Y2RZPk69Id76yiddq302e8U/edit?usp=drive_link) [Solution](https://docs.google.com/document/d/1EKOux3ee7yfh7YKC34j9RmToJwmKgKAvk8Bm0FwXSy8/edit?usp=drive_link)  
